@@ -20,7 +20,7 @@ https://devapath89.github.io/my-new-project/dropdownimg.html
 
 https://devapath89.github.io/my-new-project/dropdownmenu.html
 
-https://devapath89.github.io/my-new-project/
+https://devapath89.github.io/my-new-project/progress.html
 
 https://devapath89.github.io/my-new-project/
 
