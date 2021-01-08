@@ -1,5 +1,22 @@
 
-ChangeLog 1.0.8
+ChangeLog 1.1.2
+
+
+08-.01.2021 14:17
+
+progress.html.
+added
+a music menu
+  implanting drop down menu
+  one hick up but overall happy with this current result . 
+
+
+
+removed
+  div claass button removed due to dropdownmenu
+
+
+
 
 08.01.2021 13:40
 drop down menu  enabled in dropdownmenu.html
