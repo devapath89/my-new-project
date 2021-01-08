@@ -1,23 +1,8 @@
-08.01.2021
-
-
-
-
-update 2 
-added HeadLine to top off the page 
-added auto scale to HeadLine
-eddied code so its more streamlined
-
-
-
-update 1
-removed div from buttons
-added grid to page
-  added columes
-  added rows
-  added grid aerea 
-
-added div id to page 
+07.01.2020
+ChangeLog 1.0.6
+08.01.2021 : 11.00AM
+changed on HeadLine code so color is in h1 style 
+changed so buttons goes downwords in columes
 
 
 
@@ -25,20 +10,8 @@ added div id to page
 
 
 
-
-
-
-
-
-
-
-
-
-07.01.2021
-ChangeLog 1.0.0
-
-
-changed commands and lines 
+08.01.2021 : 10.00
+hanged commands and lines 
 
 removed commands:
 
@@ -66,5 +39,5 @@ visited changed to dark golden rod (if you have visitied the link it will be gol
 Head Line text colour changed to red to be more viewable on the blue background
 
 
-overalll changes .
+overal changes .
 div buttons have been moved from head down to body . (will implant a button later on )

@@ -15,11 +15,23 @@
 
 
     }
+    div{
+    background-color:royalblue;
+    background-size: 100px 100px;
+    background-position: 50px 50px;
+    
+    min-width:200px;
+    min-height:200px;
+    max-width:200px;
+    max-height:200px; 
+      
+    padding:50px;
+}
 
 
     h1 { color: white;
         text-align: center;
-
+        max-height: 4fr
     }
 
     a:hover{
@@ -56,14 +68,15 @@ grid-area: button5;}
   display: grid;
   grid-template-columns:1fr;
   grid-template-rows: 2fr;
-  grid-template-areas: 'h1'
-                        'headLine '
+  grid-template-areas:  'h1'
+                        'headLine'
                         'button1' 
                         'button2' 
                         'button3' 
                         'button4' 
                         'button5' 
-                        'button5';
+                        'button5'
+                        ;
 
 
 
