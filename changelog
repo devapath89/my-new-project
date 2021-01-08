@@ -1,6 +1,8 @@
 07.01.2020
 ChangeLog 1.0.6
 08.01.2021 : 11.00AM
+changed width so buttons take up entire space so its not messed up 
+
 everything is boxes downwords its change in the direction .but not what we wanted 
 
 changed on HeadLine code so color is in h1 style 
