@@ -27,22 +27,32 @@
 div.headLine{background-color: blue;
 grid-area: headLine;}
 
-div.button1{background-color: crimson;
+.button1{background-color: crimson;
 grid-area:button1;}
 
-div.button2{background-color: darkred;
+.button2{background-color: darkred;
 grid-area: button2;}
 
-div.button3{background-color: maroon;
+.button3{background-color: maroon;
 grid-area: button3;}
 
-div.button4{background-color: rebeccapurple;
+.button4{background-color: rebeccapurple;
 grid-area: button4;}
 
-div.button5{background-color: indigo;
+.button5{background-color: indigo;
 grid-area: button5;}
 
+#page { height: 100vh;
+  display: grid;
+  grid-template-columns: 3fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows:5fr 3fr;
+  grid-template-areas: 'headLine headLine headLine headLine headLine headLine'
+                        'button1 button2 button3 button4 button5 button5 ';
 
+
+
+
+}
 
 </style>
 
@@ -53,7 +63,7 @@ grid-area: button5;}
 
 </head>
 <body>
-
+<div id="page">
     <h1 style="color: orange;"> En liten prøve av ting og tang </h1>
 
 <div class="headLine"><strong>songs iam going to have in this list are going to be my worksongs</strong></div>
@@ -73,6 +83,7 @@ grid-area: button5;}
 
 
 <div class="button5"><a href="https://www.youtube.com/watch?v=60ItHLz5WEA">Alan Walker :Faded</a></div>
-    
+</div>
+
 </body>
 </html>

@@ -1,0 +1,58 @@
+08.01.2021
+removed div from buttons
+added grid to page
+  added columes
+  added rows
+  added grid aerea 
+
+added div id to page 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+07.01.2021
+ChangeLog 1.0.0
+
+
+changed commands and lines 
+
+removed commands:
+
+paragraphs removed form 
+
+headLine
+
+button1
+
+button2
+
+button3
+
+button4
+
+button5
+
+added to a new begining 2 : 
+
+a tag to style 
+  Adress color changed to white
+  hover changed to yellow (hovering over link turns it yellow)
+visited changed to dark golden rod (if you have visitied the link it will be golden )
+
+Head Line text colour changed to red to be more viewable on the blue background
+
+
+overalll changes .
+div buttons have been moved from head down to body . (will implant a button later on )
