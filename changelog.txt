@@ -1,5 +1,18 @@
-07.01.2020
-ChangeLog 1.0.6
+
+ChangeLog 1.0.8
+
+08.01.2021 13:15
+
+dropdown hover added to dopdownimg
+
+
+
+
+
+08.01.2021
+added pictures to a diffeent page so we can keep on going 
+
+
 08.01.2021 : 11.00AM
 changed on HeadLine code so color is in h1 style 
 changed so buttons goes downwords in columes
@@ -28,7 +41,7 @@ button3
 button4
 
 button5
-
+07.01.2020
 added to a new begining 2 : 
 
 a tag to style 
