@@ -1,4 +1,16 @@
 08.01.2021
+
+
+
+
+update 2 
+added HeadLine to top off the page 
+added auto scale to HeadLine
+eddied code so its more streamlined
+
+
+
+update 1
 removed div from buttons
 added grid to page
   added columes
